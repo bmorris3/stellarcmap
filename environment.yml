@@ -1,0 +1,7 @@
+name: stellarcmap
+channels:
+  - conda-forge
+dependencies:
+  - astropy
+  - numpy
+  - matplotlib
