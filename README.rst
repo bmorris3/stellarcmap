@@ -1,6 +1,8 @@
 Stellar colormaps in matplotlib
 -------------------------------
 
+Documentation: https://stellarcmap.readthedocs.io
+
 License
 -------
 
